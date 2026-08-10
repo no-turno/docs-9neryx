@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-87dgcr.haybaleman.co.nz/sitemap.xml
